@@ -1,2 +1,11 @@
-Hello everyone
-Code...
+git clone
+Lưu code về máy
+
+cd project
+Di chuyển tới thư mục cần đẩy
+
+git add .     Add tất cả mọi thứ
+git commit -am "Thông báo gửi lên"
+git push      Đẩy code lên github
+
+git pull     update code mới nhất
