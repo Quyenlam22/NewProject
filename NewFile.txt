@@ -4,6 +4,7 @@ Lưu code về máy
 cd project
 Di chuyển tới thư mục cần đẩy
 
+git init      Tạo thư mục ảo mới trên máy
 git add .     Add tất cả mọi thứ
 git commit -am "Thông báo gửi lên"
 git push      Đẩy code lên github
